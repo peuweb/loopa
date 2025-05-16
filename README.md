@@ -4,7 +4,7 @@
 
 Seu assistente de IA no WhatsApp: receba um resumo diário de Google Calendar, ClickUp, Trello e mais.
 
-![Cover Image](images/cover.png)
+![Cover Image](images/projeto-loopa.jpg)
 
 
 # 🧠 Loopa: A história de como um assistente virtual mudou minha rotina
