@@ -51,10 +51,6 @@ Resultado?
 
 ## 🔍 O que vamos ver aqui
 
-@to-do adicionar link compartilhado do notebook do Google Colab
-
-Neste notebook, você vai acompanhar exatamente **como esse assistente funciona por trás das cortinas**.
-
 Vamos simular, passo a passo, o que acontece todo dia quando o Loopa acorda cedo pra te ajudar:
 
 1. **Criamos uma lista bagunçada** — como a vida real.  
@@ -74,7 +70,7 @@ Você não precisa abrir mil abas. O Loopa **abre o seu dia pra você**.
 
 ---
 
-> *Vamos codar isso agora? Porque lembrar das tarefas é bom. Mas ser lembrado com inteligência… é transformador.*
+> ## *Porque lembrar das tarefas é bom. Mas ser lembrado com inteligência… é transformador.*
 
 ## 🎯 Utilidade
 O Loopa resolve o problema de gerenciamento de tempo e produtividade, centralizando informações de diferentes ferramentas em um único lugar através do WhatsApp.
@@ -96,6 +92,10 @@ Foi uma honra imensa ter participado da Imersão IA promovida pela Alura em parc
 Durante essa jornada incrível, tive a oportunidade de mergulhar fundo no mundo da Inteligência Artificial e aprender com os melhores profissionais do mercado. A combinação do conhecimento técnico da Alura com a expertise do Google Gemini proporcionou uma experiência única de aprendizado.
 
 Agradeço a todos os envolvidos por essa oportunidade transformadora! 🙏
+
+@to-do adicionar link compartilhado do notebook do Google Colab
+
+Neste notebook, você vai acompanhar exatamente **como esse assistente funciona por trás das cortinas**.
 
 ### POC com base nas aulas
 
