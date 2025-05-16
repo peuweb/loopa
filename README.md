@@ -2,7 +2,7 @@
 
 ## Imersão
 
-Seu assistente de IA no WhatsApp: receba um resumo diário de Google Calendar, ClickUp, Trello e mais.
+Seu assistente de IA no WhatsApp: receba um resumo diário inteligente de Google Calendar, ClickUp, Trello e mais.
 
 ![Cover Image](images/projeto-loopa.jpg)
 
