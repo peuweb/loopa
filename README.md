@@ -1,14 +1,9 @@
-# Loopa
-
-## Imersão
-
+![Cover Image](images/projeto-loopa.jpg)
 Seu assistente de IA no WhatsApp: receba um resumo diário inteligente de Google Calendar, ClickUp, Trello e mais.
 
-![Cover Image](images/projeto-loopa.jpg)
 
 
 # 🧠 Loopa: A história de como um assistente virtual mudou minha rotina
-
 > *Sabe aquele momento no dia que, se você tivesse lembrado, tudo teria fluído melhor?*  
 >  
 > Eu também passava por isso… até conhecer o Loopa. Ou melhor, até **criar** o Loopa.
