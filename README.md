@@ -93,9 +93,27 @@ Interface intuitiva e amigável no WhatsApp, com design clean e funcionalidades 
   <img src="images/loopa-mensagem-diaria.jpeg" alt="Cover Image 1" width="45%"/>
 </p>
 
+## 🚀 Já disponível para teste no WhatsApp!
+
+O Loopa já está no ar, pronto pra tu testar e ver a mágica acontecer no teu dia a dia! Não perde tempo, clica no link abaixo e fala comigo no zap:
+
+<p align="center">
+  <a href="https://wa.me/5511917911886?text=Olá vim da Imersão Alura" target="_blank" style="font-size:1.2em; font-weight:bold;">
+    👉 Teste agora o Loopa no WhatsApp! Clique aqui e mande um oi
+  </a>
+</p>
+
+---
+
 ## Imersão Alura + Google Gemini
 Foi uma honra imensa ter participado da Imersão IA promovida pela Alura em parceria com o Google Gemini! 🚀
 
 Durante essa jornada incrível, tive a oportunidade de mergulhar fundo no mundo da Inteligência Artificial e aprender com os melhores profissionais do mercado. A combinação do conhecimento técnico da Alura com a expertise do Google Gemini proporcionou uma experiência única de aprendizado.
 
 Agradeço a todos os envolvidos por essa oportunidade transformadora! 🙏
+
+## 👨‍💻 Informações do Autor
+
+- **Nome:** Pedro Araujo
+- **Email:** [peu@fera.ag](mailto:peu@fera.ag)
+- **LinkedIn:** [https://www.linkedin.com/in/peuweb](https://www.linkedin.com/in/peuweb)
