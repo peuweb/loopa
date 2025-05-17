@@ -89,6 +89,7 @@ Interface intuitiva e amigável no WhatsApp, com design clean e funcionalidades 
 <p align="center">
   <img src="images/loopa-mensagem-onboarding.jpeg" alt="Cover Image 1" width="45%"/>
   <img src="images/loopa-conectando-agentes.jpeg" alt="Cover Image 2" width="45%"/>
+  <img src="images/loopa-sucesso-onboarding.jpeg" alt="Cover Image 1" width="45%"/>
   <img src="images/loopa-mensagem-diaria.jpeg" alt="Cover Image 1" width="45%"/>
 </p>
 
