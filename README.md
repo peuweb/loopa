@@ -53,7 +53,7 @@ Vamos simular, passo a passo, o que acontece todo dia quando o Loopa acorda cedo
 3. **Usamos o Gemini** para interpretar e organizar as tarefas.  
 4. **Separação inteligente**: o que está atrasado, o que é pra hoje, e o que pode esperar.  
 5. **Resposta personalizada**: o Gemini sugere um plano de ação.  
-6. **Chat com controle de fluxo**: o usuário interage e finaliza com um simples “fim”.
+6. **Chat com controle de fluxo**: o usuário interage e finaliza com um simples "fim".
 
 ---
 
@@ -85,6 +85,12 @@ O projeto demonstra resultados concretos na organização e otimização do temp
 Interface intuitiva e amigável no WhatsApp, com design clean e funcionalidades bem estruturadas para uma experiência fluida.
 
 # Processo criativo
+<img src="images/poc.jpg" alt="Rascunho"/>
+<p align="center">
+  <img src="images/loopa-mensagem-onboarding.jpeg" alt="Cover Image 1" width="45%"/>
+  <img src="images/loopa-conectando-agentes.jpeg" alt="Cover Image 2" width="45%"/>
+  <img src="images/loopa-mensagem-diaria.jpeg" alt="Cover Image 1" width="45%"/>
+</p>
 
 ## Imersão Alura + Google Gemini
 Foi uma honra imensa ter participado da Imersão IA promovida pela Alura em parceria com o Google Gemini! 🚀
