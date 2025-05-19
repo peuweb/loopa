@@ -105,6 +105,16 @@ O Loopa já está no ar, pronto pra tu testar e ver a mágica acontecer no teu d
 
 ---
 
+## 🚧 Status do Projeto: Em Desenvolvimento
+
+Atualmente, o Loopa encontra-se em fase de desenvolvimento e aguardando a aprovação do Google para a liberação do acesso ao Google Calendar. Durante esse período, é possível testar as demais funcionalidades do sistema. Caso seja exibido um aviso de que o aplicativo não foi verificado pelo Google, siga as instruções apresentadas na imagem abaixo para prosseguir com o acesso de forma segura.
+
+<p align="center">
+  <img src="images/google-calendar-problems.png" alt="Como acessar mesmo sem verificação" width="60%"/>
+</p>
+
+---
+
 ## Imersão Alura + Google Gemini
 Foi uma honra imensa ter participado da Imersão IA promovida pela Alura em parceria com o Google Gemini! 🚀
 
